@@ -1,0 +1,9 @@
+{
+  "name": "Admin",
+   "lastname":"Kumar",
+  "email": "hqqq12345@gmail.com",
+  "telephone":"123456789",
+  "password":"12345@",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "url":"https://naveenautomationlabs.com/opencart/index.php?route=account/register"
+}
